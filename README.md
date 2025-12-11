@@ -1,6 +1,6 @@
 # CinePass
 
-CinePass is a modern, full-stack movie ticketing platform designed to provide a seamless and intuitive experience for booking cinema tickets online. From discovering the latest movie releases to securely reserving your favorite seats, CinePass aims to make your movie-going experience hassle-free. It features a robust administrative panel for comprehensive management of movies, showtimes, and user bookings.
+CinePass is a modern, full-stack movie ticketing platform designed to provide a seamless and intuitive experience for booking cinema tickets online. From discovering the latest movie releases to securely reserving your favorite seats, CinePass aims to make your movie-going experience hassle-free. It features a robust administrative panel for comprehensive management of movies, showtimes, and user bookings
 
 ## ✨ Key Features
 
